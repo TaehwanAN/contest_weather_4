@@ -8,9 +8,11 @@
 - 분석보고서 링크(pdf): https://drive.google.com/file/d/1sLG1cFQrqgX_fYrWZn8F7cH8DGOr4vja/view?usp=drive_link
 - 발표PPT 링크(pdf): https://drive.google.com/file/d/1WI4m6IDhnOuR-HJO6hM4WGon7aaGZt-J/view?usp=drive_link
 ---
+![image](https://github.com/user-attachments/assets/7f6ced9f-544f-4269-862c-d1e44514498f)
+
+---
   ![image](https://github.com/user-attachments/assets/bb4b3c07-6fed-4cb0-a0f8-0202e715ae36)
-[「2024 날씨 빅데이터 콘테스트」 수상 실적 확인(4_와트맨).pdf](https://github.com/user-attachments/files/16675569/2024.4_.pdf)
 ---
-[기상청_과제4_발표PPT_특성공학기반lightgbm모델을통한기상에따른공동주택전력수요예측개선.pdf](https://github.com/user-attachments/files/16675573/_.4_.PPT_.lightgbm.pdf)
----
-[기상청_과제4_분석보고서_특성공학기반lightgbm모델을통한기상에따른공동주택전력수요예측개선.pdf](https://github.com/user-attachments/files/16675586/_.4_._.lightgbm.pdf)
+![image](https://github.com/user-attachments/assets/d633a6f1-771a-41ac-8014-399af7d81d66)
+![image](https://github.com/user-attachments/assets/e2b51ff0-b2af-4c4d-9571-c641a29ffe4d)
+![image](https://github.com/user-attachments/assets/3142da48-e805-40c1-8b3d-d6d89274de2b)
