@@ -16,7 +16,8 @@
 ![image](https://github.com/user-attachments/assets/bb4b3c07-6fed-4cb0-a0f8-0202e715ae36)
 ---
 ---
-# 발표PPT 링크(pdf): https://drive.google.com/file/d/1WI4m6IDhnOuR-HJO6hM4WGon7aaGZt-J/view?usp=drive_link
+# 발표PPT 
+- 링크(pdf): https://drive.google.com/file/d/1WI4m6IDhnOuR-HJO6hM4WGon7aaGZt-J/view?usp=drive_link
 ![image](https://github.com/user-attachments/assets/d633a6f1-771a-41ac-8014-399af7d81d66)
 ![image](https://github.com/user-attachments/assets/e2b51ff0-b2af-4c4d-9571-c641a29ffe4d)
 ![image](https://github.com/user-attachments/assets/3142da48-e805-40c1-8b3d-d6d89274de2b)
