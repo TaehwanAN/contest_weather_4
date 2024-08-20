@@ -7,12 +7,14 @@
 - 결과: 한국전력공사사장상(특별상)
 - 분석보고서 링크(pdf): https://drive.google.com/file/d/1sLG1cFQrqgX_fYrWZn8F7cH8DGOr4vja/view?usp=drive_link
 ---
-# 수상확인실적
-![image](https://github.com/user-attachments/assets/7f6ced9f-544f-4269-862c-d1e44514498f)
----
 # 대회소개
 ![image](https://github.com/user-attachments/assets/5291b407-ea9e-45c2-bfc1-22217688475c)
+---
+---
+# 수상확인실적
+![image](https://github.com/user-attachments/assets/7f6ced9f-544f-4269-862c-d1e44514498f)
 ![image](https://github.com/user-attachments/assets/bb4b3c07-6fed-4cb0-a0f8-0202e715ae36)
+---
 ---
 # 발표PPT 링크(pdf): https://drive.google.com/file/d/1WI4m6IDhnOuR-HJO6hM4WGon7aaGZt-J/view?usp=drive_link
 ![image](https://github.com/user-attachments/assets/d633a6f1-771a-41ac-8014-399af7d81d66)
